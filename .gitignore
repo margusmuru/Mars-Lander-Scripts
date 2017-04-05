@@ -1,0 +1,14 @@
+
+*.meta
+
+*.prefab
+
+*.anim
+
+*.mat
+
+Standard Assets/Particles/Sources/Textures/
+
+Standard Assets/Scripts/Camera Scripts/
+
+*.shader
